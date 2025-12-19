@@ -455,7 +455,7 @@ header .container nav ul li:hover a .dropdown-icon {
 @media (max-width:1000px) {
     .hero-words .container {
         flex-direction: column;
-        gap: 0;
+        gap: 10px;
         text-align: center;
         width: fit-content;
     }
